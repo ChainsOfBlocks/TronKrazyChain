@@ -1,1 +1,14 @@
+Who were we?
+
+TronKrazyChain is a remake of KrazyKewlGamez.KrazyKewlGamez was founded Nov of 2018 and did alot of production of Unity3d games but failed miserably because the google playstore banned all 5 of them. I also tryed submitting them to the Apple store and as well, they rejected them. KrazyKewl was determined to carry on and so we did by leaning the neccessary programing languages to create dApps(webApps).A few hacks later of my first few trc20 contracts, KrazyKewlBot was born on telegram.
+It uses out trc10 KrazyKewlPlayToken to play a Dice rolling game. It is also a TronWallet to hold and store all your crypto and production on that is on hold and you are about to find out way...
+
+After the production of the bot, I spent time upgrading it and defi appeared out of no where! I spent two weeks in hibernation learning everything I could about it on a programmers end and started KrazyKewlDefi Farm,wrote the neccessary contract,set up a website and launched it with a launch date,great.Upon testing JustSwap,I didn't realize I created a trade pair of KKG20 and trx and a price that was way to low.I than tryed fixing the price but was too late,1 KKG20 was worth 0.000001 trx. I than created KrazyMiningFarmToken and put it on JustSwap at a normal rate and the price than moved to 72 trx. Not wanting no sales because of high token price, I emptied the liquidity to re add the liquidity but by than, an address decided to add my KMFT on JustSwap for 9999trx for 1kmft. I do not have that much trx to buy it back which has now led me to start over
+
+Who are we now...?
+To stay away from the KK/KrazyKewl catchy name, TronKrazyChain is used  for a new start as well as to avoid the KK usage as I do not know who or why was doing that to my liquidity or even why. What I am doing is taking full blame for my mistake on JustSwap as I am not a high roller,just a stay at home father with a passion to do and not sit. I could be one of the fathers sitting at home watching the tele but decided for the sack of my sanity lol and my family, I would teach myself programming and did just that.
+
+The goal of TKC is to eventually become multi-chain for the purpose of the telegram bot as well as the website. The telegram bot will have more details below.As of now, I still have contracts and a farm of tokens to use and will be starting a Genesis mining as planned with a date yet to be announced.Another mistake the old use to make was give release dates too soon,a mistake I will make sure won't happen again.During the first two weeks of Genesis,the goal is to provide a KrazySwap that accepts only pairs belonging to TronKrazyChains' Enterprise.By doing so, a third party app(JustSwap) will not be neccessary and a one stop site is why you will want to come.
+
+What tokens should I keep?
 
